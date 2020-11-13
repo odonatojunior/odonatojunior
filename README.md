@@ -1,4 +1,9 @@
-### Hi there 👋
+### Donato Junior
+- Aspirante a Front-end
+- Encantado pelo ambiente Linux 🐧
+- Atualmente apaixonado por segurança e Arduino 👨‍💻
+- Aprendendo a usar essa personalização do Github 😁
+
 
 <!--
 **odonatojunior/odonatojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
