@@ -1,3 +1,4 @@
+<img src="./cover.png"/>
 # Donato Junior
 - Aspirante a Front-end
 - Encantado pelo ambiente Linux 🐧
