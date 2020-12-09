@@ -2,12 +2,12 @@
 
 
 # Donato Junior
-- Aspirante a Front-end
-- Encantado pelo ambiente Linux 🐧
-- Atualmente apaixonado por segurança e Arduino 👨‍💻
-- Aprendendo a usar essa personalização do Github 😁
+- Aspiring Front-End Developer
+- Passionate about Linux Enviroment 🐧
+- Currently interested in cybersecurity and Arduino 👨‍💻
+- Still learning how to use this new feature 😁
 
-## Coisas que trabalho com/uso ou estou aprendendo
+## Things that I'm learning and/or working with
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
