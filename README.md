@@ -1,4 +1,4 @@
-<img src="./cover.png">
+<!-- <img src="./cover.png">-->
 
 
 # Donato Junior
