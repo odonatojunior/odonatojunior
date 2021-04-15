@@ -2,9 +2,10 @@
 
 
 # Donato Junior
+- Internet Systems student
 - Aspiring Front-End Developer
 - Passionate about Javascript ☕
-- Currently interested in React and Flutter 👨‍💻
+- Currently interested in Laravel and Vue.js 👨‍💻
 
 ## Things that I'm learning and/or working with
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
