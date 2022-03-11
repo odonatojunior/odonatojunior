@@ -1,4 +1,4 @@
-> ##  A designer who loves to code (or vice versa);
+##  A designer who loves to code (or vice versa)
 - My current goals are studying product design, business strategy and web development (back & front);
 - UI/UX Designer in the Delta Team (innovation) @ Precisão Sistemas
 
