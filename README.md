@@ -1,6 +1,6 @@
 ##  A designer who loves to code (or vice versa)
 - My current goals are studying product design, business strategy and web development (back & front);
-- UI/UX Designer in the Delta Team (innovation) @ Precisão Sistemas
+- Product Designer in the Delta Team (innovation) @ Precisão Sistemas
 
 ## Things that I'm learning and/or working with
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
