@@ -1,5 +1,5 @@
-<h1 align="center" ><strong>Hello, I'm <span style="color: #10f463">Donato</span></strong></h1>
-<p align="center" >A designer who loves to code <small>(or vice versa)</small></p>
+![coverImage](/_cover.png "Cover image saying: 'Hello, I am Donato' ")
+
 <hr>
 
 ### About me
