@@ -1,7 +1,3 @@
-![coverImage](/_cover.png "Cover image saying: 'Hello, I am Donato' ")
-
-<hr>
-
 ### About me
 
 - ✏️ I'm currently working as a Product Designer in the Delta Team (innovation) @ Precisão Sistemas;
