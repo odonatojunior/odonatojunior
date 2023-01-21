@@ -2,18 +2,18 @@
 ✏️ Front-end @ Precisão Sistemas;
 
 💎 My current goals are:
-  - Become a better web developer (back && front && servers);
-  - Improve my product design skills
-  - Learn about business
+  - Improve my software testing knowledge
+  - Learn more about Continuous Integration (GitHub + Actions ❤️)
+  - Build and publish the stuff I make in my spare time, even the small ones
  
-💡 Fun fact: My first carreer choice was becoming a history teacher
+💡 Fun fact: I'm a huge game soundtrack fan
 
 ### Connect with me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/odonatojunior)
 [![Twtter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/odonatojunior)
 
-### Current stack
+### Current (and personal) stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
