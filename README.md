@@ -1,12 +1,12 @@
 ### About me
 ✏️ Front-end @ Precisão Sistemas;
 
-💎 My current goals are:
+💎 My current goals:
   - Improve my software testing knowledge
   - Learn more about Continuous Integration (GitHub + Actions ❤️)
   - Build and publish the stuff I make in my spare time, even the small ones
  
-💡 Fun fact: I'm a huge game soundtrack fan
+💡 Fun fact: I'm a huge videogame soundtrack fan
 
 ### Connect with me
 
