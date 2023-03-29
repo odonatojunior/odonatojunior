@@ -6,7 +6,7 @@
   - Learn more about Continuous Integration (GitHub + Actions ❤️)
   - Build and publish the stuff I make in my spare time, even the small ones
  
-💡 Fun fact: I'm a huge videogame soundtrack fan
+💡 Fun fact: I'm a huge [videogame soundtrack fan](https://youtu.be/qBfsAUFifOo)
 
 ### Connect with me
 
