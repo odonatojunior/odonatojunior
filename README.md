@@ -1,4 +1,3 @@
-### About me
 ✏️ Front-end @ Precisão Sistemas;
 
 💎 Current goals:
@@ -6,21 +5,24 @@
   - Learn more about Continuous Integration (GitHub + Actions ❤️)
   - Build and publish the stuff I make in my spare time, even the small ones
  
-💡 Fun fact: I'm a huge [videogame soundtrack fan](https://youtu.be/qBfsAUFifOo)
+💡 Fun fact: I recently fell in love with [Astro](https://astro.build/) 🧡
 
-### Connect with me
+### Let's connect!
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/odonatojunior)
 [![Twtter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/odonatojunior)
 
 ### Current (and personal) stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Vitest](https://img.shields.io/badge/Vitest-7ec242?style=for-the-badge&logo=vitest&logoColor=FFD62E)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 <details>
-  <summary>I played with:</summary>
+  <summary>But I also know (or played with):</summary>
 
   #### Front-end
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
